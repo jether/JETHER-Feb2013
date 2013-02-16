@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <widget xmlns = "http://www.w3.org/ns/widgets"
+        xmlns:gap = "http://phonegap.com/ns/1.0"
+        id        = "com.jether.net"
+        versionCode="10" 
+        version   = "1.0.0">
+
+    <name>JETHER.NET</name>
+
+    <description>
+       JETHER.NET Mobile App 
+    </description>
+
+    <author href="https://www.jether.net" email="jether@jeher.net">
+        Jether Sarraga
+    </author>
+
+</widget>
